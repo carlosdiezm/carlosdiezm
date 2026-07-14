@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/ZagloSs/bannerImg/main/Linkds.png)
+![enter image description here]([https://raw.githubusercontent.com/ZagloSs/bannerImg/main/Linkds.png](https://github.com/user-attachments/assets/43e151c5-a79d-4096-b11b-50ce21dc8b24))
 
 # Hi, I'm Carlos! 👋
 
