@@ -1,4 +1,4 @@
-![enter image description here](https://raw.githubusercontent.com/ZagloSs/bannerImg/main/Linkds.png](https://github.com/user-attachments/assets/43e151c5-a79d-4096-b11b-50ce21dc8b24))
+![enter image description here](https://github-production-user-asset-6210df.s3.amazonaws.com/71779031/621455690-43e151c5-a79d-4096-b11b-50ce21dc8b24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA/20260714/us-east-1/s3/aws4_request&X-Amz-Date=20260714T120314Z&X-Amz-Expires=300&X-Amz-Signature=0e6137f2eee4d4325aca7b1649bf446cc9d3754c1b28e868c2db3d97002445ef&X-Amz-SignedHeaders=host&response-content-type=image/png)
 
 # Hi, I'm Carlos! 👋
 
