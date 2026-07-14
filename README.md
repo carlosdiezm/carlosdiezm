@@ -41,9 +41,9 @@ I'm a developer passionate about building **accessible, visually compelling web 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=carlosdiezm&theme=midnight&size=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=carlosdiezm&theme=gruvbox&hide_border=true&border_radius=18&size=compact)
 </br>
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=carlosdiezm&theme=midnight&days=30&width=320&height=80)
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=carlosdiezm&theme=gruvbox&days=30&width=320&height=80&hide_border=true)
 
 ----------
 
